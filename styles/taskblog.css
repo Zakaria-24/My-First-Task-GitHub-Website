@@ -1,0 +1,16 @@
+div{
+    background-color: darkolivegreen;
+    border: 10px solid lightgreen;
+    background-size: 10px;
+    border-radius: 10px;
+    padding: 2% 4%;
+    margin: 30px 40px;
+    box-shadow: 10px 10px 5px cadetblue;
+}
+h1{
+    font-style: italic;
+    text-align: center;
+    color: darkred;
+    margin-bottom: 10px blue;
+    text-decoration: underline 2px blue ;
+}
