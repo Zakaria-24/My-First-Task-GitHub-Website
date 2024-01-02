@@ -43,4 +43,11 @@ h5{
     text-align: center;
     padding-top: 10px;
     box-shadow: 10px 10px 5px rgb(171, 72, 85);
+    margin: 10px 40px 10px;
+    box-sizing: border-box;
+}
+b{
+    color: darkkhaki;
+    border: 10px;
+   text-align-last: right;
 }
